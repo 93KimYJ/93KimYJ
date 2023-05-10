@@ -1,16 +1,23 @@
-### Hi there 👋
+<div align=center>
+## HI!!
 
-<!--
-**93KimYJ/93KimYJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name : 김여준
+- Age  : 30
+- Email : yeojun0127@gmail.com
+- GitHub : github.com/93KimYJ
 
-Here are some ideas to get you started:
+## 학력
+- 청학고등학교 졸업 (이과)
+- 한국폴리텍대학 성남캠퍼스(AI자동화과) 졸업
+- 한국폴리텍대학 성남캠퍼스(인공지능SW과) 하이테크과정 수료중
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## STACKS
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  
+---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=93KimYJ&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=93KimYJ&show_icons=true">
+
+## 열심히 공부하는중
+
+  </div>
