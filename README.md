@@ -12,7 +12,7 @@
  한국폴리텍대학 성남캠퍼스(AI자동화과) 졸업<br>
  한국폴리텍대학 성남캠퍼스(인공지능SW과) 하이테크과정 수료중<br>
 
-## 📚STACKS📚
+# 📚STACKS📚
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
   
 ---
@@ -24,4 +24,4 @@
   
 ## 열심히 공부하는중
 
-  </div>
+</div>
