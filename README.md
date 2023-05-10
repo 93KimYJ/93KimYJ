@@ -18,7 +18,7 @@
 ---
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=93KimYJ&layout=compact"><br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=93KimYJ&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=93KimYJ&show_icons=true&theme=highcontrast)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeojun0127)](https://solved.ac/yeojun0127)<br><br>
   
 ---
