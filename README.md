@@ -18,8 +18,8 @@
 ---
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=93KimYJ&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=93KimYJ&show_icons=true">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/yeojun0127)
+<img src="https://github-readme-stats.vercel.app/api?username=93KimYJ&show_icons=true"><br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeojun0127)](https://solved.ac/yeojun0127)
 ---
   
 ## 열심히 공부하는중
