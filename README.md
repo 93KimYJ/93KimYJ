@@ -1,13 +1,13 @@
 <div align=center>
   
-# 👋HI!!👋
+# 👋HI!!
 
  Name : 김여준<br>
  Age  : 30<br>
  Email : yeojun0127@gmail.com<br>
  GitHub : <a href="github.com/93KimYJ">김여준 깃허브<br>
 
-# 🏫학력🏫
+# 🏫학력
  청학고등학교 졸업 (이과)<br>
  한국폴리텍대학 성남캠퍼스(AI자동화과) 졸업<br>
  한국폴리텍대학 성남캠퍼스(인공지능SW과) 하이테크과정 수료중<br>
