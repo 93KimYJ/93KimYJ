@@ -18,7 +18,7 @@
 ---
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=93KimYJ&exclude_repo=github-readme-stats,93KimYJ.github.io)](https://github.com/anuraghazra/github-readme-stats)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=93KimYJ&show_icons=true&theme=cobalt)<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeojun0127)](https://solved.ac/yeojun0127)<br><br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeojun0127)](https://solved.ac/yeojun0127)<br>
   
 ---
   
