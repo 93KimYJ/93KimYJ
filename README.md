@@ -5,7 +5,6 @@
  Name : 김여준<br>
  Age  : 30<br>
  Email : yeojun0127@gmail.com<br>
- GitHub : <a href="github.com/93KimYJ">김여준 깃허브<br>
 
 ---
 
