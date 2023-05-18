@@ -23,6 +23,6 @@
   
 ---
   
-## 열심히 공부하는중
+## Despite the forecast, live like it’s spring.
 
 </div>
