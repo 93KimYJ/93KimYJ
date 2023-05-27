@@ -21,8 +21,5 @@
 # BaekJoon Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeojun0127)](https://solved.ac/yeojun0127)<br>
   
----
-  
-## Despite the forecast, live like it’s spring.
 
 </div>
